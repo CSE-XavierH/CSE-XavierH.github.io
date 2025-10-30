@@ -8,18 +8,19 @@ text-align: center;
 }
 .projects { display:flex; flex-wrap:wrap; } 
 .project {
-width: 5%;
-margin: 10px;
-padding: 20px 10px;
+width: 50%;
+margin: 100px;
+padding: 200px 100px;
 background: rgba(167, 36, 159, 0.652); /* pick a color */
-border-radius: 25%;
+border-radius: 45%;
 .project img{
-width: 30px;
-height: 30px;
+width: 300px;
+height: 300px;
 margin: 10px;
 border: 2px solid rgb(126, 14, 201); /* choose a color */
 display: block;
 margin: auto;
 }
 }
+
 
