@@ -8,11 +8,13 @@ text-align: center;
 }
 .projects { display:flex; flex-wrap:wrap; } 
 .project {
-width: 50%;
+width: 30%;
 margin: 100px;
-padding: 200px 100px;
+padding: 20px 10px;
 background: rgba(167, 36, 159, 0.652); /* pick a color */
 border-radius: 45%;
+
+}
 .project img{
 width: 300px;
 height: 300px;
@@ -20,7 +22,6 @@ margin: 10px;
 border: 2px solid rgb(126, 14, 201); /* choose a color */
 display: block;
 margin: auto;
-}
 }
 
 
